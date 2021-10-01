@@ -14,6 +14,8 @@ cd /opt/carla/bin
 ./CarlaUE.sh  
 ```
 
+The Unreal Simulator will launch and you will see a birds-eye view of the default map as shown below. Learn more about changing maps [here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#map-setting).
+
 ### Data Set Summary & Exploration
 
 #### 1. Following the import of the dataset files, I used the numpy.shape to retrieve the number of examples and the shape of the traffic sign image.
