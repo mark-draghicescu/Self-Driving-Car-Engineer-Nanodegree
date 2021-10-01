@@ -6,16 +6,12 @@ which the weather changes can be adjusted before running the script. The default
 
 It is also possible to customize the weather conditions, read more about [changing the weather](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#change-the-weather).
 
-## Rubric Points
+#### 1. First step is to launch CARLA
 
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
-
----
-### Writeup / README
-
-#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
-
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+'''
+cd /opt/carla/bin
+./CarlaUE.sh
+'''
 
 ### Data Set Summary & Exploration
 
