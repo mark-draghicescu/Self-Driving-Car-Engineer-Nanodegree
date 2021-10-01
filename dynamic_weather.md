@@ -30,7 +30,7 @@ python dynamic_weather.py --speed 1.0
 
 Example of dynamic weather change (speed 50.0).
 
-![CARLA Dynamic Weather](https://gifs.com/gif/dynamic-weather-py-Y7M6vn)
+![CARLA Dynamic Weather](https://j.gifs.com/Y7M6vn.gif)
 
 #### 1. Following the import of the dataset files, I used the numpy.shape to retrieve the number of examples and the shape of the traffic sign image.
 
