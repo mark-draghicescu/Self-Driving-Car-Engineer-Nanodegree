@@ -7,10 +7,11 @@ which the weather changes can be adjusted before running the script. The default
 It is also possible to customize the weather conditions, read more about [changing the weather](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#change-the-weather).
 
 #### 1. First step is to launch CARLA
+
+In the terminal:
 ```
-    cd /opt/carla/bin
-    ./CarlaUE.sh
-    
+cd /opt/carla/bin
+./CarlaUE.sh  
 ```
 
 ### Data Set Summary & Exploration
