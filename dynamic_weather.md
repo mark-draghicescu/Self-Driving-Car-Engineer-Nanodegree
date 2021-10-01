@@ -16,7 +16,7 @@ CarlaUE.exe
 
 The Unreal Simulator will launch and you will see a birds-eye view of the default map as shown below. Learn more about changing maps [here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#map-setting).
 
-![CARLA Map](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/map_view.jpg)
+![CARLA Map](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/dynamic_weather.mp4)
 
 #### 2. To run dynamic_weather.py
 
