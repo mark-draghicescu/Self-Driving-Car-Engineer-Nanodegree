@@ -16,7 +16,7 @@ cd /opt/carla/bin
 
 The Unreal Simulator will launch and you will see a birds-eye view of the default map as shown below. Learn more about changing maps [here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#map-setting).
 
-![image info](C:\Users\Mark\Desktop\map_view.jpg)
+![CARLA Map](/Self-Driving-Car-Nanodegree/map_view.jpg)
 
 ### Data Set Summary & Exploration
 
