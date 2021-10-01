@@ -16,7 +16,7 @@ CarlaUE.exe
 
 The Unreal Simulator will launch and you will see a birds-eye view of the default map as shown below. Learn more about changing maps [here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#map-setting).
 
-![CARLA Map](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/dynamic_weather.mp4)
+![CARLA Map](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/map_view.jpg)
 
 #### 2. To run dynamic_weather.py
 
@@ -29,7 +29,8 @@ python dynamic_weather.py --speed 1.0
 ```
 
 Example of dynamic weather change (speed 50.0).
-![CARLA Dynamic Weather](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/map_view.jpg)
+
+![CARLA Dynamic Weather](https://gifs.com/gif/dynamic-weather-py-Y7M6vn)
 
 #### 1. Following the import of the dataset files, I used the numpy.shape to retrieve the number of examples and the shape of the traffic sign image.
 
