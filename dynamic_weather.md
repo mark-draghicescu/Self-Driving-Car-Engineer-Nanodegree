@@ -28,5 +28,8 @@ cd ./carla/PythonAPI/examples
 python dynamic_weather.py --speed 1.0 
 ```
 
+Example of dynamic weather change (speed 50.0).
+![CARLA Dynamic Weather](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/map_view.jpg)
+
 #### 1. Following the import of the dataset files, I used the numpy.shape to retrieve the number of examples and the shape of the traffic sign image.
 
