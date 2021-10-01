@@ -18,7 +18,7 @@ The Unreal Simulator will launch and you will see a birds-eye view of the defaul
 
 ![CARLA Map](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/map_view.jpg)
 
-##### 2. To run dynamic_weather.py
+#### 2. To run dynamic_weather.py
 
 Open a new terminal and navigate to the directory `./carla/PythonAPI/examples` and run `dynamic_weather.py`. It is also possible to adjust the ratio for the weather changes.
 
