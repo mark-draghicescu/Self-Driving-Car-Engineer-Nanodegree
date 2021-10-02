@@ -33,3 +33,5 @@ Example of dynamic weather change (speed 50.0).
 ![CARLA Dynamic Weather](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/dynamic_weather.gif)
 
 *Dynamic weather changing Town10*
+
+Learn more about changing weather conditions ![here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#change-the-weather)
