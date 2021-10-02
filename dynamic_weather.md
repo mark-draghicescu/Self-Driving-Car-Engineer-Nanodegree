@@ -1,10 +1,8 @@
 ### Dynamic weather example 
 
-The dynamic weather example found in `./carla/PythonAPI/examples/dynamic_weather.py` creates changing weather conditions with respect to time. The rate at
-which the weather changes can be adjusted before running the script. The default value is 1.0.
+The dynamic weather example found in `./carla/PythonAPI/examples/dynamic_weather.py` creates changing weather conditions with respect to time. Changes include the position of the sun along with occasional storms. The rate at which the weather changes can also be adjusted. The default value is 1.0.
 
-
-It is also possible to customize the weather conditions, read more about [changing the weather](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#change-the-weather).
+To customize the weather conditions, read more about [changing the weather](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#change-the-weather).
 
 #### 1. First step is to launch CARLA
 
