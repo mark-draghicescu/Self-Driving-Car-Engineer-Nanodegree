@@ -20,7 +20,7 @@ The Unreal Simulator will launch and you will see a birds-eye view of the defaul
 
 #### 2. To run dynamic_weather.py
 
-Open a new terminal and navigate to the directory `./carla/PythonAPI/examples` and run `dynamic_weather.py`. It is also possible to adjust the ratio for the weather changes.
+Open a new terminal and navigate to the directory `./carla/PythonAPI/examples` and run `dynamic_weather.py`. To adjust the ratio for the weather changes, you can include `--speed 1.0` following `dynamic_weather.py` and set the desired value.   
 
 In the terminal:
 ```
