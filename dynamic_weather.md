@@ -34,4 +34,4 @@ Example of dynamic weather change (speed 50.0).
 
 *Dynamic weather changing Town10*
 
-Learn more about changing weather conditions ![here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#change-the-weather)
+Learn more about changing weather conditions [here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#change-the-weather)
